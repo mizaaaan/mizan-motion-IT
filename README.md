@@ -1,4 +1,4 @@
-# https://mizaaaan.github.io/mizanIT
+# https://mizaaaan.github.io/mizan-motion-IT/
 Hi There
 <!--
 **mizaaaaan/mizaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
